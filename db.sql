@@ -1,1 +1,3 @@
 CREATE DATABASE its;
+
+USE its;

@@ -3,6 +3,6 @@ CREATE DATABASE its;
 USE its;
 
 ciao ciao sono alberto.
-ciao sono m
+ciao sono marco
 DROP DATABASE ITS;
 
